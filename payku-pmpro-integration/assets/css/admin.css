@@ -1,0 +1,7 @@
+.pmpro_settings_divider h3 {
+    margin-top: 2rem;
+}
+
+.pmpro_settings input[type="password"] {
+    width: 25rem;
+}
